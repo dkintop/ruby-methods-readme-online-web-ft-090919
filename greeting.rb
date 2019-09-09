@@ -7,3 +7,5 @@ def greeting_five_times
     greeting
   end
 end
+
+greeting_five_times
