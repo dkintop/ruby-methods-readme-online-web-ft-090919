@@ -2,4 +2,8 @@ def greeting
   puts "Hello World"
 end
 
-greeting
+def greeting_five_times
+  5.times do
+    greeting
+  end
+end
